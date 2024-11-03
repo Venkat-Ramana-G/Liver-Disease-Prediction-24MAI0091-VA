@@ -1,0 +1,30 @@
+2024-11-03 12:43:24,734:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-03 12:43:24,735:INFO:[33mPress CTRL+C to quit[0m
+2024-11-03 12:43:24,846:INFO: * Restarting with watchdog (windowsapi)
+2024-11-03 12:43:31,472:WARNING: * Debugger is active!
+2024-11-03 12:43:31,501:INFO: * Debugger PIN: 518-307-528
+2024-11-03 12:44:48,443:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-03 12:44:48,443:INFO:[33mPress CTRL+C to quit[0m
+2024-11-03 12:44:48,483:INFO: * Restarting with watchdog (windowsapi)
+2024-11-03 12:44:55,316:WARNING: * Debugger is active!
+2024-11-03 12:44:55,321:INFO: * Debugger PIN: 518-307-528
+2024-11-03 12:46:09,066:INFO:127.0.0.1 - - [03/Nov/2024 12:46:09] "GET / HTTP/1.1" 200 -
+2024-11-03 12:46:09,584:INFO:127.0.0.1 - - [03/Nov/2024 12:46:09] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-03 12:46:11,287:INFO:127.0.0.1 - - [03/Nov/2024 12:46:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-03 12:49:16,318:INFO:Input: [[50, 1, 2.0, 1.0, 89.0, 35.0, 30.0, 7.0, 4.0, 1.0]], Prediction: 1
+2024-11-03 12:49:16,330:INFO:127.0.0.1 - - [03/Nov/2024 12:49:16] "POST / HTTP/1.1" 200 -
+2024-11-03 12:49:16,431:INFO:127.0.0.1 - - [03/Nov/2024 12:49:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:49:27,730:INFO:127.0.0.1 - - [03/Nov/2024 12:49:27] "GET / HTTP/1.1" 200 -
+2024-11-03 12:49:27,776:INFO:127.0.0.1 - - [03/Nov/2024 12:49:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:50:48,234:INFO:127.0.0.1 - - [03/Nov/2024 12:50:48] "GET / HTTP/1.1" 200 -
+2024-11-03 12:50:48,348:INFO:127.0.0.1 - - [03/Nov/2024 12:50:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:52:13,727:INFO:127.0.0.1 - - [03/Nov/2024 12:52:13] "GET / HTTP/1.1" 200 -
+2024-11-03 12:52:13,781:INFO:127.0.0.1 - - [03/Nov/2024 12:52:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:58:08,547:INFO:127.0.0.1 - - [03/Nov/2024 12:58:08] "GET / HTTP/1.1" 200 -
+2024-11-03 12:58:08,644:INFO:127.0.0.1 - - [03/Nov/2024 12:58:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:58:38,311:INFO:127.0.0.1 - - [03/Nov/2024 12:58:38] "GET / HTTP/1.1" 200 -
+2024-11-03 12:58:38,366:INFO:127.0.0.1 - - [03/Nov/2024 12:58:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-03 12:58:50,561:INFO:127.0.0.1 - - [03/Nov/2024 12:58:50] "GET / HTTP/1.1" 200 -
+2024-11-03 12:58:50,597:INFO:127.0.0.1 - - [03/Nov/2024 12:58:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
